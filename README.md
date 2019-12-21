@@ -47,3 +47,5 @@
 1,2 번은 초기 설정 때만 하면 되고 3,4,5,6는 님이 이후에 작업할 때마다 반복해주면 됨
 
 ## Javascript에 대해 알아봐요
+javascipt에 대한 강의는 https://academy.nomadcoders.co/p/javascript-basics-for-absolute-beginners-kr
+위 강의로 대체하겠습니다^^ (소요 시간 5시간 정도)
