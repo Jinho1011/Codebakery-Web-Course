@@ -40,7 +40,7 @@ git 다운 링크 : https://git-scm.com/downloads
 
 ### 본인 숙제를 git에 올리는 방법
 1. visual studio를 켠다
-![1](./how to git/1.png)
+![1](how to git/1.png)
 
 2. `ctrl + b`를 눌러 터미널을 연다
 ![2](./how to git/2.png)
