@@ -54,6 +54,8 @@ git 다운 링크 : https://git-scm.com/downloads
 6. 자신의 이름으로 폴더를 만들고 그 안에 자신의 숙제를 업로드한다
 ![3](https://github.com/Jinho1011/Codebakery-Web-Course/blob/master/how%20to%20git/3.png)
 
+
+
 7. 터미널에서 `git add .`
 - 추가할 반영 목록을 작성(.으로 하면 전체임)
 
@@ -64,7 +66,7 @@ git 다운 링크 : https://git-scm.com/downloads
 9. `git push origin master`
 - master 브랜치에 추가
 
-1~4는 처음에만 작업하면 되고 나중에 숙제를 수정할 때에는 7~9만 하면 됨!!
+1,2,3,4는 처음에만 작업하면 되고 나중에 숙제를 수정할 때에는 7,8,9만 하면 됨!!
 다음처럼 나오면 성공!
 ![4](https://github.com/Jinho1011/Codebakery-Web-Course/blob/master/how%20to%20git/4.png)
 
