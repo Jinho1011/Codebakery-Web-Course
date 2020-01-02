@@ -65,6 +65,8 @@ git 다운 링크 : https://git-scm.com/downloads
 - master 브랜치에 추가
 
 1~4는 처음에만 작업하면 되고 나중에 숙제를 수정할 때에는 7~9만 하면 됨!!
+다음처럼 나오면 성공!
+![4]('./how to git/4.png')
 
 ## Javascript에 대해 알아봐요
 javascipt에 대한 강의는 https://academy.nomadcoders.co/p/javascript-basics-for-absolute-beginners-kr
