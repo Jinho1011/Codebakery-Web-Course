@@ -40,10 +40,10 @@ git 다운 링크 : https://git-scm.com/downloads
 
 ### 본인 숙제를 git에 올리는 방법
 1. visual studio를 켠다
-![1]('./how to git/1.png')
+![1]('/how to git/1.png')
 
 2. `ctrl + b`를 눌러 터미널을 연다
-![2]('./how to git/2.png')
+![2]('/how to git/2.png')
 
 3. `ctrl k + o`를 눌러 원하는 폴더에 들어간다
 
@@ -52,7 +52,7 @@ git 다운 링크 : https://git-scm.com/downloads
 5. 다시 `ctrl k + o`를 눌러 `Codebakery-Web-Course` 폴더에 들어간다
 
 6. 자신의 이름으로 폴더를 만들고 그 안에 자신의 숙제를 업로드한다
-![3]('./how to git/3.png')
+![3]('/how to git/3.png')
 
 7. 터미널에서 `git add .`
 - 추가할 반영 목록을 작성(.으로 하면 전체임)
@@ -66,7 +66,7 @@ git 다운 링크 : https://git-scm.com/downloads
 
 1~4는 처음에만 작업하면 되고 나중에 숙제를 수정할 때에는 7~9만 하면 됨!!
 다음처럼 나오면 성공!
-![4]('./how to git/4.png')
+![4]('/how to git/4.png')
 
 ## Javascript에 대해 알아봐요
 javascipt에 대한 강의는 https://academy.nomadcoders.co/p/javascript-basics-for-absolute-beginners-kr
