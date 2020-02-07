@@ -67,3 +67,38 @@ git 다운 링크 : https://git-scm.com/downloads
 
 ## Javascript에 대해 알아봐요
 https://academy.nomadcoders.co/p/javascript-basics-for-absolute-beginners-kr
+
+
+# 3차시
+
+## NodeJs를 시작해봅시다
+https://nodejs.org/dist/v12.15.0/node-v12.15.0-x64.msi
+
+## npm
+Node.js와 뗄래야 뗄 수 없는 관계로 npm이라는 게 있습니다. node package manager의 줄임말인데요.  Node.js에서는 자주 쓰이고 재사용되는 자바스크립트 코드들을 패키지로 만들어서 사용할 수 있습니다.  그러한 패키지를 모아놓은 저장소가 npm입니다.
+
+Node.js를 설치하면 자동으로 npm이 설치됩니다!
+
+## 첫 서버 만들기
+```js
+const http = require('http'); // 서버를 만드는 모듈 불러옴
+
+http.createServer((req, res) => { // 서버 만드는 메소드
+  console.log('server start!');
+  res.write('hello world \n');
+  res.end('goodbye');
+}).listen(8080); // 포트번호
+```
+`server.js`를 하나 만들고 `node server.js`로 서버를 실행시켜줍니다
+브라우저에서 https://localhost:8080 으로 접속해봅니다
+
+`createServer`에는 request(요청)과 response(응답)이라는 두 인자가 있습니다.    
+![server](https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/course/2614/4971.png)  
+
+req는 클라이언트에서 서버로 보낸 요청에 관련된 내용이 담겨있고, res로는 클라이언트로 웹페이지를 보내는 역할을 합니다.
+
+위 코드에서는 `res.write()`와 `res.end()`로 내용을 전달했죠
+
+그럼 다음은 html 파일을 res로 보내 실제 서버처럼 만들어봅시다.
+
+## html파일 전송하기
