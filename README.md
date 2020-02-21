@@ -160,6 +160,24 @@ http.createServer((req, res) => {
 
 다음은 클라이언트를 구분하기 위해 쿠키와 세션에 대해서 알아보겠습니다 :D
 
-## 쿠키와 세션
+
+# 4차시 이후
+절대로 제가 귀찮아서 그런거는 맞고요 여러분들의 뛰어난 능력으로 다음의 강의들을 참고하면  
+훌륭하게 독학할 수 있다고 믿슴다..
+
+## 백엔드 참고 강의
+- express 강의 : https://opentutorials.org/course/3370
+- nodeJs 강의 : https://www.zerocho.com/category/NodeJS
+- nodeJs 강의 : https://www.a-mean-blog.com/ko/blog
+
+위의 강의들을 참고하면서 자신만의 프로젝트를 만들어보면 좋을 것 같습니당 :D
+
+가장 좋은 것은 글을 쓰고 읽을 수 있는 커뮤니티 사이트 하나 정도 개발하는 것입니당
+
+## 프론트엔드 참고 강의
+- https://academy.nomadcoders.co/
+노마드코더에 있는 React 강의를 들으면 좋을 것 같슴다 
+웹 디자인 능력을 기르고 싶다면 디자인 예쁜 사이트를 직접 클론코딩하는 것도 좋습니당
+
 
 
